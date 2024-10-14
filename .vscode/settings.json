@@ -1,0 +1,14 @@
+{
+  "liveServer.settings.port": 5502,
+  "editor.inlineSuggest.showToolbar": "onHover",
+  "cSpell.language": "en,lorem",
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:Codecademy}/SQL/01 Create Table/project_1.sqlite",
+      "name": "Codecademy_Project1"
+    }
+  ]
+}
